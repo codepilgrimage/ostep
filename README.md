@@ -1,2 +1,1 @@
-# ostep
-Operating Systems - Three Easy Pieces
+# OSTEP - Operating Systems - Three Easy Pieces
